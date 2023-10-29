@@ -18,13 +18,12 @@ html, body {
     color: white;
     text-decoration: none;
     font-weight: bolder;
-    padding-right: 64px;
+    padding-right: 3.33vw;
 }
 
 .nav-bar img {
-    padding-left: 64px;
-    max-width: 150px;
-    max-height: 50px;
+    padding-left: 3.33vw;
+    height: 150;
     padding-bottom: 3px;
 }
 
