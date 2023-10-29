@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+}
+
+.nav-bar {
+    background-color: #4d29ff;
+    height: 60px;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: antiquewhite;
+    min-height: 100%;
+    margin-bottom: -50px;
+    padding-bottom: 50px;
+}
+
+.footer {
+    background-color: rgb(201, 201, 201);
+    height: 120px;
+}
