@@ -41,3 +41,27 @@ html, body {
     background-color: #000000;
     height: 120px;
 }
+
+.prod-line {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.prod-main-box {
+    min-width: fit-content;
+    max-width: 283px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.prod-img-box {
+    height: fit-content;
+}
+
+.prod-price-box {
+    background-color: #4d29ff;
+    height: 60px;
+    width: 100%;
+    border-radius: 0px 0px 20px 20px;
+}
